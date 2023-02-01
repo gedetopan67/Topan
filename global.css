@@ -1,0 +1,330 @@
+.paragraf{
+    font-style: normal;
+    font-size: xx-large;
+    font-family:  "Times New Roman";
+}
+.paragraf1{
+    font-style: normal;
+    font-size: large;
+    font-family:  "Times New Roman";
+}
+.paragraf2{
+    font-size: small;
+    font-family: "Arial";
+}
+.paragraf3{
+    font-size: 80px;
+    font-family: "Times New Roman";
+}
+.paragraf4{
+    font-size: 25px;
+    font-family: "arial";
+}
+.paragraf5{
+    font-size: 60px;
+    font-family: "Times New Roman";
+}
+.paragraf6{
+    font-size: 25px;
+    font-family: "Times New Roman";
+}
+.paragraf7{
+    font-size: 80px;
+    font-family: "Times New Roman";
+    margin-top: 120px;
+}
+.paragraf8{
+    margin-top: 20px;
+    font-size: 25px;
+    font-family: "arial";
+}
+.paragraf9{
+    font-family: "arial";
+    margin-top: 200px;
+}
+.paragraf10{
+    font-family: "arial";
+    margin-top: 60px;
+}
+.featured{
+    font-size: xx-large;
+    font-family: 'Times New Roman';
+    margin: 80px;
+}
+.LaniHaw{
+    font-size: xx-large;
+    font-family: 'Times New Roman';
+    margin: 80px;
+}
+.DeonFive{
+    font-size: xx-large;
+    font-family: 'arial';
+    margin: 80px;
+}
+.knoxemus{
+    font-size: xx-large;
+    font-family: 'arial';
+    margin: 80px;
+}
+.buttonhome{
+    background-color: transparent ;
+    border-color: transparent;
+    margin: 40px;
+}
+.buttonbuatwebsite{
+    width: 150px;
+    height: 50px;
+    color: white;
+    background-color: rgb(64, 26, 188);
+    border-radius: 15px 15px 15px 15px;
+}
+.buttoncontactme{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(84, 80, 80);
+    color: white;
+    margin-top: 40px;
+}
+.buttonreadmore{
+    width: 100px;
+    height: 40px;
+    color: white;
+    background-color: rgb(84, 80, 80);
+    margin-top: 70px;
+}
+/* .fa-regular fa-left-long{
+    color: black;
+    font-size: large;
+}
+.fa-solid fa-tv{
+    font-size: large;
+    color: black;
+}
+.fa-regular fa-tablet{
+    font-size: large;
+    color: black;
+}
+.fa-regular fa-mobile-notch{
+    font-size: large;
+    color: black;
+}
+.fa-solid fa-circle-check{
+    font-size: large;
+    color: black;
+} */
+.div1{
+    width: 100%;
+    height: 200px;
+    position: fixed;
+    background-color: white;
+}
+.div1-1{
+    justify-items: center;
+    align-content: center;
+    justify-content: center;
+    margin-left: 46%;
+}
+.div1-2{
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    margin-left: 22%;
+}
+.img1{
+    background-image: url("https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=600,h=624,fit=scale-down/dovilelxpfw/img-mnllKKGWbPub6RLL.jpg");
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.img2{
+    width: 100%;
+    height: 500px;
+    background-image: url("https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=984,h=1023,fit=scale-down/dovilelxpfw/DovileCo-Yg2266WvEotgpkq4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img3{
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=984,h=1023,fit=crop/dovilelxpfw/DovileCo-Aq22gw99VPtW8vMk.jpg");
+}
+.img4{
+    background-image: url("https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=984,h=1039,fit=crop/dovilelxpfw/testimonial-d95lQjEGjlir2kka.jpg");
+    width: 250px;
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 150px;
+    margin-left: 200px;
+}
+.img5{
+    background-image: url("https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=242,h=242,fit=crop/dovilelxpfw/DovileCo-AVLL5DXVDbCVnM4k.jpg");
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img6{
+    background-image: url("https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=242,h=242,fit=crop/dovilelxpfw/DovileCo-d955jE6v30UrV7Kg.jpg");
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img7{
+    background-image: url("https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=242,h=242,fit=crop/dovilelxpfw/DovileCo-dJooDG0q5os2DJnq.jpg");
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img8{
+    background-image: url("https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=242,h=242,fit=crop/dovilelxpfw/DovileCo-mnllO7kBbNhDnj1M.jpg");
+    height: 200px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.div2{
+    display: flex;
+    background-color: rgb(250, 236, 236);
+}
+.span2-1{
+    height: 500px;
+    width: 40%;  
+    margin-left: 10%;
+    margin-top: 300px;
+}
+.span2-2{
+    height: 500px;
+    width: 40%;
+    margin-top: 300px;
+}
+.div3{
+    width: 100%;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.span3-1{
+    display: flex;
+}
+.div4{
+    background-color: rgb(250, 236, 236);
+    width: 100%;
+    height: 350px;
+    align-content: center;
+    text-align: center;
+}
+.div4-1{
+    width: 60%;
+    margin-left: 20%;
+    padding-top: 5%;
+}
+.div5{
+    display: flex;
+    width: 100%;
+    height: 500px;
+    background-color: white;
+    width: 100%;
+}
+.span5-1{
+    width: 40%;
+    height: 500px;
+    margin-left: 5%;
+}
+.span5-2{
+    width: 40%;
+    height: 500px;
+    margin-left: 10%;
+    margin-top: 150px;
+    margin: 10%;
+}
+.div6{
+    background-color: rgb(250, 236, 236);
+    width: 100%;
+    height: 800px;
+}
+.div6-0{
+    width: 100%;
+    text-align: center;
+    padding-top: 50px;
+}
+.div6-1{
+    display: flex;
+}
+.div6-2{
+    display: flex;
+}
+.span6-1{
+    width: 30%;
+    height: 200px;
+    margin-left: 15%;
+    margin-top: 10%;
+}
+.span6-2{
+    margin-top: 10%;
+    width: 30%;
+    height: 200px;
+    margin-left: 10%;
+}
+.span6-3{
+    width: 30%;
+    height: 200px;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+.span6-4{
+    margin-top: 5%;
+    width: 30%;
+    height: 200px;
+    margin-left: 10%;
+}
+.div7{
+    display: flex;
+   background-color: white;
+}
+.span7-1{
+    height: 500px;
+    width: 40%;
+    margin-left: 10%;
+}
+.span7-2{
+    height: 500px;
+    width: 40%;
+    margin-left: 5%;
+}
+.div8{
+    display: flex;
+    width: 100%;
+    height: 500px;
+    background-color: rgb(250, 236, 236);
+}
+.span8-1{
+    height: 400px;
+    width: 35%;
+}
+.span8-2{
+    height: 400px;
+    width: 60%;
+}
+.div9{
+    display: flex;
+    width: 100%;
+    height: 500px;
+}
+.div9-1{
+    margin-left: 250px;
+    margin-top: 100px;
+    display: flex;
+}
+.span9-1{
+    display: flex;
+    margin: 10px;
+}
+
+
